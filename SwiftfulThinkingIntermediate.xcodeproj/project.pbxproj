@@ -14,6 +14,7 @@
 		F9C4A6942C25AA4600E38771 /* SwiftfulThinkingIntermediateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C4A6932C25AA4600E38771 /* SwiftfulThinkingIntermediateTests.swift */; };
 		F9C4A69E2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C4A69D2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITests.swift */; };
 		F9C4A6A02C25AA4600E38771 /* SwiftfulThinkingIntermediateUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C4A69F2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITestsLaunchTests.swift */; };
+		F9C4A6AD2C25AA5900E38771 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9C4A6AC2C25AA5900E38771 /* LongPressGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F9C4A6992C25AA4600E38771 /* SwiftfulThinkingIntermediateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftfulThinkingIntermediateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9C4A69D2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingIntermediateUITests.swift; sourceTree = "<group>"; };
 		F9C4A69F2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingIntermediateUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F9C4A6AC2C25AA5900E38771 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				F9C4A6822C25AA4500E38771 /* SwiftfulThinkingIntermediateApp.swift */,
 				F9C4A6842C25AA4500E38771 /* ContentView.swift */,
+				F9C4A6AC2C25AA5900E38771 /* LongPressGestureBootcamp.swift */,
 				F9C4A6862C25AA4600E38771 /* Assets.xcassets */,
 				F9C4A6882C25AA4600E38771 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				F9C4A6852C25AA4500E38771 /* ContentView.swift in Sources */,
 				F9C4A6832C25AA4500E38771 /* SwiftfulThinkingIntermediateApp.swift in Sources */,
+				F9C4A6AD2C25AA5900E38771 /* LongPressGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
