@@ -46,6 +46,8 @@
 		F9C4A69D2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingIntermediateUITests.swift; sourceTree = "<group>"; };
 		F9C4A69F2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingIntermediateUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F9C4A6AC2C25AA5900E38771 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
+		F9C4A6AE2C25B01100E38771 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F9C4A6B02C25B19B00E38771 /* onLongPressGesture.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = onLongPressGesture.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,8 @@
 		F9C4A6762C25AA4500E38771 = {
 			isa = PBXGroup;
 			children = (
+				F9C4A6AF2C25B18B00E38771 /* RecordedVideos */,
+				F9C4A6AE2C25B01100E38771 /* README.md */,
 				F9C4A6812C25AA4500E38771 /* SwiftfulThinkingIntermediate */,
 				F9C4A6922C25AA4600E38771 /* SwiftfulThinkingIntermediateTests */,
 				F9C4A69C2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITests */,
@@ -128,6 +132,14 @@
 				F9C4A69F2C25AA4600E38771 /* SwiftfulThinkingIntermediateUITestsLaunchTests.swift */,
 			);
 			path = SwiftfulThinkingIntermediateUITests;
+			sourceTree = "<group>";
+		};
+		F9C4A6AF2C25B18B00E38771 /* RecordedVideos */ = {
+			isa = PBXGroup;
+			children = (
+				F9C4A6B02C25B19B00E38771 /* onLongPressGesture.mp4 */,
+			);
+			path = RecordedVideos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
