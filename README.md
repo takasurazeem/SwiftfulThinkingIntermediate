@@ -1,6 +1,4 @@
 
 # onLongPressGesture
-<video width="320" height="240" controls>
-  <source src="RecordedVideos/onLongPressGesture.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/takasurazeem/SwiftfulThinkingIntermediate/assets/2876680/bd9365f7-d1bc-4b52-9256-4616005505a6
+
